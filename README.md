@@ -41,7 +41,7 @@
 
 Use Case: Ideal for system administrators, server managers, or anyone looking for a lightweight and easy-to-use server monitoring solution without needing to install extra software.
 
-(Just... don’t look too closely at the awk filters 👀, I’m not sure what’s going on there either)
+(Just... don’t look too closely at the awk filters, I’m not sure what’s going on there either)
 
 ## License:
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](LICENSE.txt).  
